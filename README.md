@@ -6,11 +6,7 @@ A Samsung Contacts App mockup Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Its very bare bones, and doesn't have much funtionality,
+Its one of my first Flutter projects, which I am currently trying to learn,
+expect weird, not working, bizzare or redundant code,
+some stuff might not work as intended.
